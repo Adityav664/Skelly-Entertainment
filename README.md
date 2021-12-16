@@ -5,7 +5,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Adityav664/test.git
+git remote add origin https://github.com/Adityav664/Skelly-Entertainment.git
 git push -u origin main
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
