@@ -1,14 +1,19 @@
 # Getting Started with Create React App
 
 ## to clone the repository
-run this in your code editor . /
+run this in your code editor. /
+
+step 1:
+
 git clone https://github.com/Adityav664/Skelly-Entertainment.git
 
-Then run /
-npm install/
+step 2:
 
-then /
-npm start /
+npm install
+
+step 3:
+
+npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
